@@ -19,7 +19,6 @@ Legend specific*/
   color: #555;
 }
 
-
 .legend span {
   position: relative;
   bottom: 3px;
@@ -31,9 +30,4 @@ Legend specific*/
   float: left;
   margin: 0 8px 0 0;
   opacity: 0.7;
-}
-
-.legend i.icon {
-  background-size: 18px;
-  background-color: rgba(255, 255, 255, 1);
 }
